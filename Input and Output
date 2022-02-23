@@ -1,1 +1,21 @@
+Section A : Concert: 
+		genre
+		artist
+		role
+		concert_role
+		concert
+		venue	
+		concert_group
+		
+Section B : Tickets :
+ 		ticket
+		ticket_category
+		
+Section C : Coustomers and Orders :
+		customer
+		customer_order
+		order_ticket
+		
+
+
 
