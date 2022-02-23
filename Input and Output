@@ -1,3 +1,5 @@
+INPUT : 
+
 Section A : Concert: 
 		genre
 		artist
@@ -15,7 +17,13 @@ Section C : Coustomers and Orders :
 		customer
 		customer_order
 		order_ticket
-		
+	
+	
+OUTPUT : 
+		Ticket Cost 
+		Number of Tickets 
+		Seat Numbers
+		Show Timings 
 
 
 
