@@ -1,0 +1,7 @@
+Goal 1: Give the user the correct web address 
+Goal 2: Give a login Id and password for each user
+Goal 3: Once the user is loged in ask them to select the city
+Goal 4: Show the user the available concerts in that city
+Goal 5: Once the user selects the concert show the available tickets to the user
+Goal 6: Once the ticket is selected take them to the payment portal
+Goal 7: Once the payment is done send them a confirmation mail
